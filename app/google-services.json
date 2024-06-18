@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1082453097187",
+    "project_id": "shashank-assignment",
+    "storage_bucket": "shashank-assignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082453097187:android:df74905ad99eb243a763d6",
+        "android_client_info": {
+          "package_name": "com.studies.shashank_assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChFJ4CfxLiAAvD8_TS_JBgckHvdla_NIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
